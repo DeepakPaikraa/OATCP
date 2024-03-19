@@ -1,0 +1,1 @@
+Enter the size of the array: Enter the elements of the array: Maximum product of a subarray: 12
